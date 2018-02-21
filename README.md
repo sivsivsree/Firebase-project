@@ -2,7 +2,7 @@
 This is a demo app which use Firebase Gmail verification message to authenticate the user.In this project a mail is sent to the user which is used as a verification and when the user is verified.Only after the user has verified his account will he be available to log in.
 
 
-![screenshot_20180204-192446](https://user-images.githubusercontent.com/35878516/36461140-07f594c2-16e2-11e8-8f90-1645f813615d.png width="48")
+![screenshot_20180204-192446](https://user-images.githubusercontent.com/35878516/36461140-07f594c2-16e2-11e8-8f90-1645f813615d.png){:height="36px" width="36px"}.
 
 Pre-requisites
 --------------
