@@ -6,17 +6,17 @@ package com.example.android.loginapp;
  */
 
 public class User {
-    String Displayname;
-    String Email;
-    long createdAt;
 
-    public User(String displayname, String email, long createdAt){
+    private String Displayname;
+    private String Email;
+    private long createdAt;
 
-        this.Displayname = displayname;
-        this.Email =email;
-        this.createdAt=createdAt;
+    User(String displayName, String email, long createdAt) {
+
+        this.Displayname = displayName;
+        this.Email = email;
+        this.createdAt = createdAt;
     }
-
 
 
     public String getDisplayname() {
